@@ -1,0 +1,10 @@
+.external-box {
+    background-color: #d4ffd9;
+    padding: 15px;
+    border: 2px solid green;
+    border-radius: 10px;
+    width: 80%;
+    margin: 20px auto;
+    text-align: center;
+    font-size: 18px;
+}
